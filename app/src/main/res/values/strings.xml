@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">MultiPhotoSelect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MultiPhotoSelect</string>
+
+    <string name="permission_rationale">"Storage permission is needed for fetching images from Gallery."</string>
+
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+</resources>
